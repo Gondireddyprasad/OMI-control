@@ -1,0 +1,26 @@
+{
+  "default": {
+    "next_slide": "right",
+    "previous_slide": "left",
+    "pause": "b",
+    "mute": "m",
+    "underline": "ctrl+u"
+  },
+  "WPS Office": {
+    "next_slide": "right",
+    "previous_slide": "left",
+    "mute": "m"
+  },
+  "Preview": {
+    "next_slide": "right",
+    "previous_slide": "left"
+  },
+  "WhatsApp": {
+    "next_slide": "right",
+    "previous_slide": "left"
+  },
+  "Web App": {
+    "next_slide": "scroll_down",
+    "previous_slide": "scroll_up"
+  }
+}
